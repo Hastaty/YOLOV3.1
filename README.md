@@ -1,1 +1,2 @@
-# YOLOV3.1
+# YOLOV3
+YOLOV3-tiny
